@@ -20,6 +20,10 @@ This project leveraged PySpark to conduct a thorough exploratory data analysis (
 Skills : Pyspark, EDA, Big Data Analytics, Data Visulization
 
 ## Insurance Fraud Detection
+In this project, I developed a robust fraud detection system for first-party physical damage claims within the insurance sector, focusing on claims from 2015 to 2016. By leveraging advanced machine learning techniques, including Random Forests and Gradient Boosting, I significantly improved detection metrics, achieving a 70% F1 score and a 60% accuracy—up from a baseline of 40%. This enhancement in fraud detection not only led to substantial cost savings but also increased customer trust by accurately identifying and preventing fraudulent claims.
+
+Skills : Python(Pandas, Numpy, Matplotlib, Scikit-learn), Advanced ML, Hyperparameter Tuning
+
 ## Optimization of Electronic Claim Submission
 The project aimed at optimizing electronic claim submissions involved the creation of an automated business model designed to enhance the accuracy and efficiency of healthcare claim processing, benefiting patients, providers, and insurance companies. We developed and implemented a robust RDS database using DBeaver, crafted an Entity-Relationship Model, and executed data integration along with comprehensive performance evaluations to ensure optimal operation. Through strategic data optimization and performance tuning, we imported a significant amount of data and successfully halved the database query processing times, streamlining the claims process and markedly improving its efficiency. This initiative not only reduced the administrative burden but also improved financial transparency and patient care through more efficient and accurate claim processing.
 
